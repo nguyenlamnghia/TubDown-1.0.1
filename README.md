@@ -19,3 +19,5 @@ Hướng dẫn sử dụng:
 - Chọn check để kiểu tra tên video và dung lượng của file tải về
 - Chọn add để thêm danh sách vào list download
 - Xong đó chọn file cần download và nhấn download để download 1 file, nhần download all dể download tất cả
+
+Để xin source code các bạn vui lòng liên hệ qua email: admin@hoclaptrinh.cf
